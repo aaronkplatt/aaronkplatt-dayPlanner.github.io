@@ -69,3 +69,36 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+
+.hourPast {
+  background-color: gray;
+}
+
+.hourCurrent {
+  background-color: red;
+}
+
+.hourFuture {
+  background-color: green;
+}
+
+.row {
+  min-height: 50px;
+  height: auto;
+}
+
+.userTextArea {
+  background: transparent;
+  border: none;
+  outline: 0;
+  width: 100%;
+}
+
+.saveCol {
+  padding-left: 0px;
+}
+
+.saveBtn {
+  min-height: 70px;
+  height: auto;
+}
